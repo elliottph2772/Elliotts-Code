@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elliottph2772
 - 👀 I’m interested in ...Coding/NFTs/Generative Art
-- 🌱 I’m currently learning ...Java and Solidity
+- 🌱 I’m currently learning ...Java and HTML
 - 💞️ I’m looking to collaborate on ...Generative Art
 - 📫 How to reach me ...@e_hudson2772 on twitter
 
