@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+h1 {
+    font-style: italic;
+    color: purple;
+}
+
+#skillsList {
+    columns: 3;
+}
+
+.sectionHeader {
+    color: orange;
+    font-style: italic;
+    font-variant: small-caps;
+}
+
+table {
+    margin: 14px;
+    border-spacing: 7px;
+    border-collapse: separate;
+    padding: 7px;
+    width: 98%;
+}
+
+caption {
+    color: darkgray;
+    letter-spacing: 2px;
+}
+
+h3 {
+    font-style: italic;
+    color: orange;
+}
+
+th {
+    font-style: oblique;
+    border: solid;
+    border-width: 1px;
+    border-color: blue;
+}
+
+td {
+    border: solid;
+    border-width: 1px;
+    border-color: red;
+    padding: 10px;
+}

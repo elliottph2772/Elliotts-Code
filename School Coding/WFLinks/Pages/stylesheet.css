@@ -1,0 +1,13 @@
+h1 {
+    font-style: italic;
+    color: green;
+}
+
+h2 {
+    font-style: oblique;
+    color: blueviolet;
+}
+
+p {
+    color: red;
+}
