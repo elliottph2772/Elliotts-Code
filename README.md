@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Elliott
-- 👀 I’m interested in - Coding/Crypto/Generative Art
+- 👀 I’m interested in - Coding | Crypto | Video Games
 - 🌱 I’m currently learning - Java | C++ | Linux | Informational Security
 - 💞️ I’m looking to collaborate on - Software Projects | Internships
   
